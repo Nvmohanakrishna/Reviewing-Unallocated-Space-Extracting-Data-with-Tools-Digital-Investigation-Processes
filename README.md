@@ -1,3 +1,5 @@
+## name: n v mohana krishna
+## reg: 212224100039
 # Reviewing-Unallocated-Space-Extracting-Data-with-Tools-Digital-Investigation-Processes
 ## AIM:
 To review unallocated space in a disk image, extract data using forensic tools, and understand the digital investigation process.
@@ -43,6 +45,21 @@ flowchart TD
 
 ## OUTPUT:
 Unallocated Space Analysis and Extracted Data Report
+
+<img width="1372" height="996" alt="image" src="https://github.com/user-attachments/assets/78183887-fa1e-4d41-aa7a-0bdad5686a4c" />
+
+<img width="1725" height="1094" alt="Screenshot 2025-09-20 144127" src="https://github.com/user-attachments/assets/5e06ec2b-5aa5-43c6-878d-844808f61171" />
+
+<img width="1072" height="670" alt="Screenshot 2025-09-20 144949" src="https://github.com/user-attachments/assets/162a9895-ad81-4fa1-82b6-905dd44c166c" />
+
+<img width="1070" height="667" alt="Screenshot 2025-09-20 145009" src="https://github.com/user-attachments/assets/6e2a5ea9-5256-4efe-bce7-99b897caf208" />
+
+<img width="1709" height="1067" alt="Screenshot 2025-09-20 145049" src="https://github.com/user-attachments/assets/c8ccbce3-6a40-409a-b350-8fd06c3cced8" />
+
+<img width="1711" height="1066" alt="Screenshot 2025-09-20 145121" src="https://github.com/user-attachments/assets/9fef6c25-1f45-44c2-b603-52b56818ea00" />
+
+<img width="1905" height="1199" alt="Screenshot 2025-09-20 145030" src="https://github.com/user-attachments/assets/bf9f59b1-cd8d-4b29-bed7-172f7a8fe246" />
+
 
 ## RESULT:
 The unallocated space was successfully analyzed, data was extracted, and the digital investigation process was followed effectively.
